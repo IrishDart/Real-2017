@@ -1,0 +1,146 @@
+[START_CONFERENCES]
+ACC
+American
+Big Ten
+Big 12
+CIS
+MAC
+Mt West
+Pac-12
+SEC
+Sun Belt
+[END_CONFERENCES]
+[START_TEAMS]
+Clemson, CLEM, ACC, 85, WAKE, 3
+Duke, DUKE, ACC, 53, LOUI, 3
+Eastern State, ESU, ACC, 66, GT, 4
+Florida State, FSU, ACC, 65, MIA, 3
+Georgia Tech, GT, ACC, 48, ESU, 3
+Louisville, LOUI, ACC, 72, DUKE, 4
+Miami, MIA, ACC, 78, FSU, 3
+North Carolina, UNC, ACC, 45, NCST, 3
+NC State, NCST, ACC, 69, UNC, 3
+Wake Forest, WAKE, ACC, 52, CLEM, 3
+Virginia, VIR, ACC, 50, VTEC, 3
+Virginia Tech, VTEC, ACC, 73, VIR, 3
+[END_CONF]
+Army, ARMY, American, 48, NAVY, 3
+Boston College, BC, American, 60, ND, 3
+Maryland, MARY, American, 45, RUT, 3
+Navy, NAVY, American, 50, ARMY, 3
+Notre Dame, ND, American, 76, BC, 2
+Penn State, PSU, American, 80, PITT, 3
+Pittsburgh, PITT, ACC, 64, PSU, 3
+Purdue, PUR, American, 50, TEM, 2
+Rutgers, RUT, American, 42, MARY, 3
+Syracuse, SYR, American, 48, UCON, 3
+Temple, TEM, American, 43, PUR, 3
+UConn, UCON, American, 40, SYR, 3
+[END_CONF]
+Illinois, ILL, Big Ten, 40, NWU, 2
+Indiana, IND, Big Ten, 40, WKU, 2
+Iowa, IOW, Big Ten, 64, ISU, 1
+Iowa State, ISU, Big 12, 66, IOW, 1
+Michigan, MIC, Big Ten, 75, MSU, 2
+Michigan State, MSU, Big Ten, 73, MIC, 2
+Minnesota, MIN, Big Ten, 60, MNSU, 1
+Minnesota State, MNSU, Big Ten, 57, MIN, 1
+Northwestern, NWU, Big Ten, 60, ILL, 2
+Ohio State, OSU, Big Ten, 81, WIS, 2
+Western Kentucky, WKU, Big Ten, 44, IND, 4
+Wisconsin, WIS, Big Ten, 79, OSU, 2
+[END_CONF]
+Baylor, BAY, Big 12, 42, TCU, 1
+Kansas, KAN, Big 12, 30, KSU, 1
+Kansas State, KSU, Big 12, 66, KAN, 1
+Nebraska, NEB, Big 12, 63, TTEC, 1
+New Mexico, NMEX, Big 12, 38, NMST, 1
+New Mexico State, NMST, Big 12, 58, NMEX, 1
+Oklahoma, OKL, Big 12, 80, OKST, 1
+Oklahoma State, OKST, Big 12, 76, OKL, 1
+TCU, TCU, Big 12, 75, BAY, 1
+Texas, TEX, Big 12, 78, TXAM, 1
+Texas AM, TXAM, Big 12, 72, TEX, 1
+Texas Tech, TTEC, Big 12, 50, NEB, 1
+[END_CONF]
+Acadia, ACU, CIS, 43, STMU, 3
+Saint Mary's, STMU, CIS, 32, ACU, 3
+St.Francis Xavier, StFX, CIS, 42, SFU, 3
+British Columbia, UBC, CIS, 42, UoA, 0
+Univ of Alberta, UoA, CIS, 38, UBC, 0
+Saskatchewan U, USk, CIS, 29, ManU, 1
+Manitoba U, ManU, CIS, 30, USK, 1
+Guelph, GU, CIS, 29, McG, 2
+Laval, LAV, CIS, 39, Conc, 3
+Concordia, Conc, CIS, 36, LAV, 3
+McGill, McG, CIS, 37, GU, 2
+Simon Frasier, SFU, CIS, 25, StFX, 0
+[END_CONF]
+Ball State, BAL, MAC, 28, NIU, 2
+Blue Mt State, BMS, MAC, 28, KNST, 2
+Wyoming, WYOM, MAC, 45, TOL, 0
+Eastern Michigan, EMU, MAC, 38, WMU, 2
+Kent State, KNST, MAC, 30, BMS, 2
+Marshall, MARS, MAC, 47, WVU, 3
+Mid Tenn State, MTSU, MAC, 39, MIZ, 4
+Missouri, MIZ, Big 12, 53, MTSU, 1
+Northern Illinois, NIU, MAC, 47, BAL, 2
+Toledo, TOL, MAC, 45, WYOM, 2
+Western Michigan, WMU, MAC, 44, EMU, 2
+West Virginia, WVU, MAC, 70, MARS, 2
+[END_CONF]
+Air Force, AF, Mt West, 42, BOIS, 0
+Boise State, BOIS, Mt West, 64, AF, 0
+BYU, BYU, Mt West, 32, IDS, 0
+Colorado, COL, Mt West, 53, UTAH, 0
+Colorado State, CSU, Mt West, 47, UTST, 0
+Fresno State, FRES, Mt West, 42, SJSU, 0
+Idaho, IDS, Mt West, 30, BYU, 3
+UNLV, UNLV, Mt West, 33, NEV, 0
+Nevada, NEV, Mt West, 36, UNLV, 0
+San Jose State, SJSU, Mt West, 29, FRES, 0
+Utah, UTAH, Mt West, 67, COL, 0
+Utah State, UTST, Mt West, 42, CSU, 0
+[END_CONF]
+Arizona, ARIZ, Pac-12, 60, ASU, 0
+Arizona State, ASU, Pac-12, 60, ARIZ, 0
+California, CAL, Pac-12, 54, STAN, 0
+Hawaii, HAW, Pac-12, 35, SDSU, 0
+Oregon, OREG, Pac-12, 64, ORST, 0
+Oregon State, ORST, Pac-12, 50, OREG, 0
+San Diego State, SDSU, Pac-12, 64, HAW, 0
+Stanford, STAN, Pac-12, 77, CAL, 0
+UCLA, UCLA, Pac-12, 54, USC, 0
+USC, USC, Pac-12, 80, UCLA, 0
+Washington, WASH, Pac-12, 77, WSU, 0
+Washington State, WSU, Pac-12, 74, WASH, 0
+[END_CONF]
+Alabama, BAMA, SEC, 90, AUB, 4
+Arkansas, ARK, SEC, 55, LSU, 4
+Auburn, AUB, SEC, 76, BAMA, 4
+Florida, FLOR, SEC, 65, UGA, 3
+Georgia, UGA, SEC, 80, FLOR, 4
+Kentucky, UK, SEC, 60, SC, 2
+LSU, LSU, SEC, 75, ARK, 4
+Ole Miss, MISS, SEC, 54, MSST, 4
+Mississippi State, MSST, SEC, 73, MISS, 4
+South Carolina, SC, SEC, 60, UK, 4
+Tennessee, TENN, SEC, 60, VAND, 4
+Vanderbilt, VAND, SEC, 47, TENN, 4
+[END_CONF]
+Central Florida, UCF, Sun Belt, 66, USF, 3
+East Carolina, ECU, Sun Belt, 42, NTEX, 3
+Troy, TROY, Sun Belt, 46, SMU, 4
+North Texas, NTEX, Sun Belt, 43, ECU, 1
+Southern Miss, SMIS, Sun Belt, 42, UAB, 4
+Tulane, TUL, Sun Belt, 38, LTEC, 4
+UAB, UAB, Sun Belt, 43, SMIS, 4
+Tulsa, TULS, Sun Belt, 39, RICE, 1
+Rice, RICE, Sun Belt, 33, TULS, 1
+Southern Methodist, SMU, Sun Belt, 46, TROY, 4
+South Florida, USF, Sun Belt, 70, UCF, 3
+LA Tech, LTEC, Sun Belt, 43, TUL, 4
+[END_CONF]
+[END_TEAMS]
+Rose Bowl, Orange Bowl, Sugar Bowl, Fiesta Bowl, Peach Bowl, Cotton Bowl, Citrus Bowl, Gator Bowl, Cactus Bowl, Alamo Bowl, Holiday Bowl, Sun Bowl, Liberty Bowl, Vanier Cup, Vegas Bowl, Military Bowl, Aloha Bowl, Uteck Bowl
+[END_BOWL_NAMES]
