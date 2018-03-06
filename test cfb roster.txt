@@ -5299,9 +5299,20 @@ Rutgers,CJ Onyechi,DL,1,3
 Rutgers,Everett Wormley,WR,1,3
 Rutgers,Travis Vokolek,TE,1,3
 Rutgers,Hunter Hayek,WR,1,3
-Simon Frasier,Jon Widney,RB,1,8
-Simon Frasier,Greg Fedoriuk,RB,1,8
-Simon Frasier,Ron Monahan,RB,1,8
+Simon Frasier,Jon Widney,RB,1,7
+Simon Frasier,Greg Fedoriuk,QB,1,7
+Simon Frasier,Ron Monahan,RB,1,7
+Simon Frasier,Jay Stiles,WR,1,6
+Simon Frasier,Trevor Hall,S,1,6
+Simon Frasier,Chuck Nudeau,CB,1,5
+Simon Frasier,James Truman,WR,1,5
+Simon Frasier,John Ferguson,DL,1,7
+Simon Frasier,Shawn Thornwell,LB,1,4
+Simon Frasier,Joey Johnson,OL,1,4
+Simon Frasier,JL Chalifoux,RB,1,4
+Simon Frasier,JP Savard,TE,1,5
+Simon Frasier,Tyrone Kerr,LB,1,6
+Simon Frasier,Nathan Giles,WR,1,4
 St.Francis Xavier,Cortez Broughton,DL,3,8
 St.Francis Xavier,Andrew Gantz,K,4,7
 St.Francis Xavier,Kevin Mouhon,DL,3,7
