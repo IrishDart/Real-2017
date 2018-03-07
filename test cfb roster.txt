@@ -1655,75 +1655,75 @@ Florida,Ventrell Miller,LB,1,5
 Florida,Jake Allen,QB,1,5
 Florida,Lacedrick Brunson,LB,1,5
 Florida,Nick Buchanan,OL,2,4
-Eastern State,Darnell Jefferson,RB,1,8
-Eastern State,Jalen Young,S,3,8
-Eastern State,Kalib Woods,WR,4,8
-Eastern State,Reggie Bain,OL,3,7
-Eastern State,Azeez Al-shaair,LB,3,7
-Eastern State,Raekwon Williams,CB,4,6
-Eastern State,Greg Joseph,K,4,6
-Eastern State,Ryan Rickel,K,4,6
-Eastern State,Antonyo Woods,OL,4,6
-Eastern State,Ocie Rose,S,3,6
-Eastern State,Jovon Durante,WR,2,6
-Eastern State,Shelton Lewis,CB,3,5
-Eastern State,Ray Griffen,RB,2,6
-Eastern State,De'andre Johnson,QB,2,5
-Eastern State,Jason Driskel,QB,3,5
-Eastern State,Kain Daub,DL,3,5
-Eastern State,James Franklin,WR,4,5
-Eastern State,Deandre Mcneal,WR,3,5
-Eastern State,Flea Ward,WR,1,7
-Eastern State,D'anfernee Mcgriff,WR,3,5
-Eastern State,Herb Miller,CB,3,5
-Eastern State,Steven Leggett,DL,3,5
-Eastern State,Jeremiah Taleni,DL,4,5
-Eastern State,Ray Ellis,DL,3,5
-Eastern State,Roman Fernandez,OL,4,5
-Eastern State,Hosea Barnwell,LB,2,5
-Eastern State,Rashad Smith,LB,2,5
-Eastern State,Joe Kane,QB,1,8
-Eastern State,Andrew Soroh,S,3,5
-Eastern State,Kerrith Whyte,RB,2,5
-Eastern State,Steve Lattimer,DL,1,8
-Eastern State,Kris Harris,LB,3,5
-Eastern State,Daniel Parr,QB,2,5
-Eastern State,Hunter Snyder,DL,3,5
-Eastern State,Tim Bonner,DL,2,5
-Eastern State,Bud Kaminski,OL,1,8
-Eastern State,Brandon Walton,OL,2,5
-Eastern State,Willie Wright,WR,1,5
-Eastern State,Tavaris Harrison,WR,2,5
-Eastern State,Chris Tooley,CB,2,4
-Eastern State,Kevin Mccrary,DL,2,4
-Eastern State,Jake Stoshak,S,3,4
-Eastern State,Ernest Bagner,DL,3,4
-Eastern State,Haiden Nagel,DL,4,4
-Eastern State,Tarrick Thomas,OL,2,4
-Eastern State,Will Tuihalamaka,OL,2,4
-Eastern State,Nate Terry,WR,4,4
-Eastern State,Kamrin Solomon,WR,4,4
-Eastern State,John Mitchell,WR,2,4
-Eastern State,Korel Smith,CB,1,4
-Eastern State,Tyrek Tisdale,RB,1,4
-Eastern State,Matt Murphy,OL,3,4
-Eastern State,Alvin Mack,LB,1,10
-Eastern State,Khantrell Burden,LB,3,4
-Eastern State,Leighton Mccarthy,DL,2,4
-Eastern State,Ahman Ross,S,1,4
-Eastern State,Zyon Gilbert,CB,1,4
-Eastern State,Quran Hafiz,CB,1,4
-Eastern State,Chase Hooper,DL,1,4
-Eastern State,Da'von Brown,S,2,4
-Eastern State,Richard Williams,OL,2,3
-Eastern State,Gerald Hearns,RB,3,3
-Eastern State,Anthony Bennett,DL,2,3
-Eastern State,Jack Breshears,OL,2,3
-Eastern State,Akileis Leroy,LB,1,3
-Eastern State,Robert Hawkins,OL,1,3
-Eastern State,Dustin Bowens,TE,3,3
-Eastern State,Harrison Bryant,TE,2,3
-Eastern State,John Raine,TE,2,3
+ESU,Darnell Jefferson,RB,1,7
+ESU,Jalen Young,S,3,8
+ESU,Kalib Woods,WR,4,8
+ESU,Reggie Bain,OL,3,7
+ESU,Azeez Al-shaair,LB,3,7
+ESU,Raekwon Williams,CB,4,6
+ESU,Greg Joseph,K,4,6
+ESU,Ryan Rickel,K,4,6
+ESU,Antonyo Woods,OL,4,6
+ESU,Ocie Rose,S,3,6
+ESU,Jovon Durante,WR,2,6
+ESU,Shelton Lewis,CB,3,5
+ESU,Ray Griffen,RB,2,6
+ESU,De'andre Johnson,QB,2,5
+ESU,Jason Driskel,QB,3,5
+ESU,Kain Daub,DL,3,5
+ESU,James Franklin,WR,4,5
+ESU,Deandre Mcneal,WR,3,5
+ESU,Flea Ward,WR,1,7
+ESU,D'anfernee Mcgriff,WR,3,5
+ESU,Herb Miller,CB,3,5
+ESU,Steven Leggett,DL,3,5
+ESU,Jeremiah Taleni,DL,4,5
+ESU,Ray Ellis,DL,3,5
+ESU,Roman Fernandez,OL,4,5
+ESU,Hosea Barnwell,LB,2,5
+ESU,Rashad Smith,LB,2,5
+ESU,Joe Kane,QB,1,8
+ESU,Andrew Soroh,S,3,5
+ESU,Kerrith Whyte,RB,2,5
+ESU,Steve Lattimer,DL,1,7
+ESU,Kris Harris,LB,3,5
+ESU,Daniel Parr,QB,2,5
+ESU,Hunter Snyder,DL,3,5
+ESU,Tim Bonner,DL,2,5
+ESU,Bud Kaminski,OL,1,7
+ESU,Brandon Walton,OL,2,5
+ESU,Willie Wright,WR,1,5
+ESU,Tavaris Harrison,WR,2,5
+ESU,Chris Tooley,CB,2,4
+ESU,Kevin Mccrary,DL,2,4
+ESU,Jake Stoshak,S,3,4
+ESU,Ernest Bagner,DL,3,4
+ESU,Haiden Nagel,DL,4,4
+ESU,Tarrick Thomas,OL,2,4
+ESU,Will Tuihalamaka,OL,2,4
+ESU,Nate Terry,WR,4,4
+ESU,Kamrin Solomon,WR,4,4
+ESU,John Mitchell,WR,2,4
+ESU,Korel Smith,CB,1,4
+ESU,Tyrek Tisdale,RB,1,4
+ESU,Matt Murphy,OL,3,4
+ESU,Alvin Mack,LB,1,10
+ESU,Khantrell Burden,LB,3,4
+ESU,Leighton Mccarthy,DL,2,4
+ESU,Ahman Ross,S,1,4
+ESU,Zyon Gilbert,CB,1,4
+ESU,Quran Hafiz,CB,1,4
+ESU,Chase Hooper,DL,1,4
+ESU,Da'von Brown,S,2,4
+ESU,Richard Williams,OL,2,3
+ESU,Gerald Hearns,RB,3,3
+ESU,Anthony Bennett,DL,2,3
+ESU,Jack Breshears,OL,2,3
+ESU,Akileis Leroy,LB,1,3
+ESU,Robert Hawkins,OL,1,3
+ESU,Dustin Bowens,TE,3,3
+ESU,Harrison Bryant,TE,2,3
+ESU,John Raine,TE,2,3
 Florida Intl,Anthony Wint,LB,4,8
 Florida Intl,Thomas Owens,WR,4,7
 Florida Intl,Fermin Silva,DL,3,6
@@ -4213,7 +4213,7 @@ North Texas,Ulalasi Tauaalo,DL,3,4
 North Texas,Kevin Dillman,DL,2,4
 North Texas,Bryce English,DL,2,4
 North Texas,Anthony Wyche,RB,3,4
-North Texas,Nic Smith,RB,1,4
+North Texas,Jarvis Edison,RB,1,6
 North Texas,Andrew Tucker,RB,4,4
 North Texas,Roderick Young,DL,3,4
 North Texas,EJ Ejiya,LB,3,4
@@ -4221,24 +4221,24 @@ North Texas,Calvin Minor,LB,4,4
 North Texas,Chris Miles,OL,3,4
 North Texas,Kelvin Smith,TE,2,4
 North Texas,Creighton Barr,OL,3,4
-North Texas,Sid Moore,DL,4,4
+North Texas,Andre Krimm,DL,2,7
 North Texas,Tillman Johnson,DL,4,4
 North Texas,TJ Henson,OL,4,4
 North Texas,Elex Woodworth,OL,2,4
-North Texas,Quinn Shanbour,QB,3,4
+North Texas,Paul Blake,QB,2,7
 North Texas,Andy Flusche,DL,4,4
 North Texas,Caleb Chumley,TE,2,4
 North Texas,Jameel Moore,CB,2,4
-North Texas,Khairi Muhammad,S,2,4
+North Texas,Samorai Hansen,S,1,6
 North Texas,Garrett Gunter,OL,4,4
-North Texas,O'keeron Rutherford,WR,3,4
+North Texas,O'keeron Featherstone,WR,1,6
 North Texas,Rico Bussey,WR,2,4
 North Texas,Jevin Pahinui,OL,3,3
 North Texas,Andrew Jones,CB,3,3
 North Texas,Cannon Maki,RB,3,3
 North Texas,Tre Siggers,RB,1,3
 North Texas,Jalen Thomas,OL,4,3
-North Texas,William Lemasters,LB,2,3
+North Texas,Flattop Meyers,LB,1,7
 North Texas,Hayden Doggett,LB,2,3
 North Texas,Colton Mcdonald,LB,3,3
 North Texas,Blake Patterson,K,1,3
@@ -4260,7 +4260,7 @@ North Texas,Ryan Bishop,LB,1,3
 North Texas,Cade Pearson,QB,1,3
 North Texas,Dakoda Newman,OL,1,3
 North Texas,Greg White,WR,1,3
-North Texas,Keegan Brewer,WR,2,3
+North Texas,Charlie Banks,WR,1,5
 North Texas,Tony Krasniqi,DL,1,3
 North Texas,Chris Thornton,LB,1,3
 North Texas,Chandler Anthony,OL,1,3
@@ -6951,7 +6951,62 @@ UConn,AJ Garson,DL,1,3
 UConn,Stanley Hubbard,OL,1,3
 UConn,Ryan Fitton,TE,1,3
 UConn,Garrison Burnett,WR,1,3
-UNLV,Willie Beaman,QB,1,9
+UNLV,Willie Beaman,QB,1,6
+UNLV,Dane Roy,K,2,8
+UNLV,Josh Jones,OL,2,7
+UNLV,Will Noble,OL,3,7
+UNLV,Khalil Williams,S,4,7
+UNLV,Duke Catalon,RB,3,7
+UNLV,Nick Thurman,DL,4,7
+UNLV,Marcus Oliver,OL,4,7
+UNLV,Na'ty Rodgers,OL,4,7
+UNLV,Steven Dunbar,WR,4,7
+UNLV,Jeremy Winchester,CB,3,7
+UNLV,Kyle Postma,QB,4,7
+UNLV,Courtel Jenkins,DL,4,6
+UNLV,Reggie Chevis,DL,4,6
+UNLV,Kameron Eloph,OL,3,6
+UNLV,Mason Denley,OL,3,6
+UNLV,Deon Mix,OL,4,6
+UNLV,Isaiah Chambers,DL,3,6
+UNLV,Dillon Birden,RB,4,6
+UNLV,Ellis Jefferson,WR,4,6
+UNLV,John Leday,WR,4,6
+UNLV,Marquez Stevenson,WR,2,6
+UNLV,Keith Corbin,WR,2,6
+UNLV,Courtney Lark,WR,2,6
+UNLV,Jerard Carter,DL,3,6
+UNLV,D'juan Hines,LB,4,6
+UNLV,Emeke Egbule,LB,3,6
+UNLV,Alex Fontana,OL,4,6
+UNLV,Braylon Jones,OL,2,6
+UNLV,Terrell Williams,S,4,6
+UNLV,Romello Brooker,TE,3,6
+UNLV,Isaiah Johnson,CB,3,5
+UNLV,Mulbah Car,RB,2,5
+UNLV,Patrick Carr,RB,2,5
+UNLV,Ka'darian Smith,CB,2,5
+UNLV,Javian Smith,CB,2,5
+UNLV,Collin Wilder,S,2,5
+UNLV,Kevrin Justice,RB,2,5
+UNLV,Zach Vaughan,DL,3,5
+UNLV,Jarrid Williams,OL,2,5
+UNLV,Nomluis Fruge,LB,4,5
+UNLV,Austin Robinson,LB,4,5
+UNLV,Leroy Godfrey,LB,2,5
+UNLV,Ralph Harvey,LB,4,5
+UNLV,Chauntez Jackson,DL,4,5
+UNLV,Alex Leslie,TE,4,5
+UNLV,Terry Mark,WR,2,5
+UNLV,Ryan Deshotel,OL,2,5
+UNLV,Patrick Rosette,CB,1,5
+UNLV,Alexander Myres,CB,4,5
+UNLV,Joeal Williams,CB,3,5
+UNLV,Aymiel Fleming,DL,2,5
+UNLV,Dalton Witherspoon,K,2,5
+UNLV,Noah Jones,DL,1,5
+UNLV,Derek Parish,LB,1,5
+UNLV,Jordan Milburn,LB,2,5
 USC,Cameron Smith,LB,3,10
 USC,Sam Darnold,QB,2,10
 USC,Iman Marshall,CB,3,10
@@ -7021,75 +7076,75 @@ USC,Juliano Falaniko,LB,1,6
 USC,Chris Tilbey,K,3,6
 USC,Reuben Peters,RB,3,6
 USC,Jacob Lichenstein,DL,1,6
-UT El Paso,Will Hernandez,OL,4,7
-UT El Paso,Alvin Jones,LB,4,7
-UT El Paso,Devin Cockrell,S,4,6
-UT El Paso,Derron Gatewood,OL,3,5
-UT El Paso,Alan Luna,K,4,5
-UT El Paso,Dante Lovilette,LB,4,5
-UT El Paso,Nik Needham,CB,3,4
-UT El Paso,Jason Filley,K,3,4
-UT El Paso,Mike Sota,DL,3,4
-UT El Paso,Ryan Metz,QB,3,4
-UT El Paso,Logan Tuleytillm,OL,4,4
-UT El Paso,Kalon Beverly,CB,3,4
-UT El Paso,Michael Lewis,S,2,4
-UT El Paso,Sky Logan,DL,4,4
-UT El Paso,Jayson Vanhook,LB,2,4
-UT El Paso,Zack Greenlee,QB,4,4
-UT El Paso,Christian Buckingham,DL,3,4
-UT El Paso,Eddie Sinegal,WR,2,4
-UT El Paso,Lawrence Montegut,LB,4,3
-UT El Paso,Derek Elmendorff,OL,4,3
-UT El Paso,Tyler Batson,WR,4,3
-UT El Paso,Jesse Montgomery,CB,3,3
-UT El Paso,Justin Rogers,CB,2,3
-UT El Paso,Chris Richardson,DL,2,3
-UT El Paso,David Jackson,RB,4,3
-UT El Paso,Kevin Dove,RB,2,3
-UT El Paso,Quardraiz Wadley,RB,2,3
-UT El Paso,Greg Long,OL,2,3
-UT El Paso,Julian Jackson,LB,4,3
-UT El Paso,Jerrod Brooks,OL,3,3
-UT El Paso,Khalil Rashaad-bro,S,3,3
-UT El Paso,Kavika Johnson,WR,3,3
-UT El Paso,Warren Redix,WR,3,3
-UT El Paso,Terry Juniel,WR,3,3
-UT El Paso,Tanner Stallings,OL,4,3
-UT El Paso,Robert Pufahl,RB,2,3
-UT El Paso,Walter Dawn,RB,2,3
-UT El Paso,Josiah Gray,OL,1,3
-UT El Paso,Treyvon Hughes,LB,2,3
-UT El Paso,Johnny Jones,LB,4,3
-UT El Paso,Gene Hopkins,DL,2,3
-UT El Paso,Luke Elsner,DL,3,3
-UT El Paso,Markos Lujan,OL,2,3
-UT El Paso,Ruben Guerra,OL,2,3
-UT El Paso,Sterling Napier,TE,4,3
-UT El Paso,Brandon Moss,WR,4,3
-UT El Paso,Richie Rodriguez,WR,1,3
-UT El Paso,Adrian Hynson,CB,3,2
-UT El Paso,Alex Jean-charle,CB,4,2
-UT El Paso,Denzel Chukwukelu,DL,2,2
-UT El Paso,Kahani Smith,S,3,2
-UT El Paso,Jerrell Brown,S,2,2
-UT El Paso,TK Powell,RB,2,2
-UT El Paso,Joshua Fields,RB,1,2
-UT El Paso,Bobby Deharo,OL,1,2
-UT El Paso,Stephen Forester,LB,2,2
-UT El Paso,Kala Griffin,LB,2,2
-UT El Paso,Dylan Parsee,LB,2,2
-UT El Paso,Jamar Smith,LB,3,2
-UT El Paso,Mark Torrez,QB,1,2
-UT El Paso,David Lucero,TE,3,2
-UT El Paso,Alan Busey,WR,3,2
-UT El Paso,Tiano Tialavea,DL,1,2
-UT El Paso,Kobie Herring,LB,1,2
-UT El Paso,Alex Fernandes,QB,1,2
-UT El Paso,Broderick Harrell,S,1,2
-UT El Paso,Trace Mascorro,DL,1,2
-UT El Paso,Forest Mckee,RB,1,2
-UT El Paso,Brent Ugochukwu,LB,1,2
+Univ of Alberta,Will Hernandez,OL,4,7
+Univ of Alberta,Alvin Jones,LB,4,7
+Univ of Alberta,Devin Cockrell,S,4,6
+Univ of Alberta,Derron Gatewood,OL,3,5
+Univ of Alberta,Alan Luna,K,4,5
+Univ of Alberta,Dante Lovilette,LB,4,5
+Univ of Alberta,Nik Needham,CB,3,4
+Univ of Alberta,Jason Filley,K,3,4
+Univ of Alberta,Mike Sota,DL,3,4
+Univ of Alberta,Ryan Metz,QB,3,4
+Univ of Alberta,Logan Tuleytillm,OL,4,4
+Univ of Alberta,Kalon Beverly,CB,3,4
+Univ of Alberta,Michael Lewis,S,2,4
+Univ of Alberta,Sky Logan,DL,4,4
+Univ of Alberta,Jayson Vanhook,LB,2,4
+Univ of Alberta,Zack Greenlee,QB,4,4
+Univ of Alberta,Christian Buckingham,DL,3,4
+Univ of Alberta,Eddie Sinegal,WR,2,4
+Univ of Alberta,Lawrence Montegut,LB,4,3
+Univ of Alberta,Derek Elmendorff,OL,4,3
+Univ of Alberta,Tyler Batson,WR,4,3
+Univ of Alberta,Jesse Montgomery,CB,3,3
+Univ of Alberta,Justin Rogers,CB,2,3
+Univ of Alberta,Chris Richardson,DL,2,3
+Univ of Alberta,David Jackson,RB,4,3
+Univ of Alberta,Kevin Dove,RB,2,3
+Univ of Alberta,Quardraiz Wadley,RB,2,3
+Univ of Alberta,Greg Long,OL,2,3
+Univ of Alberta,Julian Jackson,LB,4,3
+Univ of Alberta,Jerrod Brooks,OL,3,3
+Univ of Alberta,Khalil Rashaad-bro,S,3,3
+Univ of Alberta,Kavika Johnson,WR,3,3
+Univ of Alberta,Warren Redix,WR,3,3
+Univ of Alberta,Terry Juniel,WR,3,3
+Univ of Alberta,Tanner Stallings,OL,4,3
+Univ of Alberta,Robert Pufahl,RB,2,3
+Univ of Alberta,Walter Dawn,RB,2,3
+Univ of Alberta,Josiah Gray,OL,1,3
+Univ of Alberta,Treyvon Hughes,LB,2,3
+Univ of Alberta,Johnny Jones,LB,4,3
+Univ of Alberta,Gene Hopkins,DL,2,3
+Univ of Alberta,Luke Elsner,DL,3,3
+Univ of Alberta,Markos Lujan,OL,2,3
+Univ of Alberta,Ruben Guerra,OL,2,3
+Univ of Alberta,Sterling Napier,TE,4,3
+Univ of Alberta,Brandon Moss,WR,4,3
+Univ of Alberta,Don Blair,WR,1,7
+Univ of Alberta,Adrian Hynson,CB,3,2
+Univ of Alberta,Alex Jean-charle,CB,4,2
+Univ of Alberta,Denzel Chukwukelu,DL,2,2
+Univ of Alberta,Kahani Smith,S,3,2
+Univ of Alberta,Jerrell Brown,S,2,2
+Univ of Alberta,TK Powell,RB,2,2
+Univ of Alberta,Joshua Fields,RB,1,2
+Univ of Alberta,Bobby Deharo,OL,1,2
+Univ of Alberta,Stephen Forester,LB,2,2
+Univ of Alberta,Kala Griffin,LB,2,2
+Univ of Alberta,Dylan Parsee,LB,2,2
+Univ of Alberta,Jamar Smith,LB,3,2
+Univ of Alberta,Mark Torrez,QB,1,2
+Univ of Alberta,David Lucero,TE,3,2
+Univ of Alberta,Alan Busey,WR,3,2
+Univ of Alberta,Tiano Tialavea,DL,1,2
+Univ of Alberta,Kobie Herring,LB,1,2
+Univ of Alberta,Alex Fernandes,QB,1,2
+Univ of Alberta,Broderick Harrell,S,1,2
+Univ of Alberta,Trace Mascorro,DL,1,2
+Univ of Alberta,Forest Mckee,RB,1,2
+Univ of Alberta,Brent Ugochukwu,LB,1,2
 Utah,Mitch Wishnowsky,K,3,10
 Utah,Lowell Lotulelei,DL,4,9
 Utah,Chase Hansen,S,3,9
