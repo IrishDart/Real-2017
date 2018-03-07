@@ -13,7 +13,7 @@ Sun Belt
 [START_TEAMS]
 Clemson, CLEM, ACC, 85, WAKE, 3
 Duke, DUKE, ACC, 53, LOUI, 3
-Eastern State, ESU, ACC, 66, GT, 4
+ESU, ESU, ACC, 66, GT, 4
 Florida State, FSU, ACC, 65, MIA, 3
 Georgia Tech, GT, ACC, 48, ESU, 3
 Louisville, LOUI, ACC, 72, DUKE, 4
