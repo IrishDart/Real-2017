@@ -4579,7 +4579,7 @@ Ohio State,Sean Nuernberger,K,3,7
 Ohio State,Jonathon Cooper,DL,1,7
 Ohio State,Matthew Burrell,OL,2,7
 Ohio State,Tuf Borland,LB,1,7
-Ohio State,Vontae Mack,LB,1,10
+Ohio State,Vontae Mack,LB,1,29
 Ohio State,Baron Browning,LB,1,7
 Ohio State,Keandre Jones,LB,2,7
 Ohio State,Joe Burrow,QB,2,7
@@ -5310,16 +5310,18 @@ Simon Frasier,John Ferguson,DL,1,7
 Simon Frasier,Shawn Thornwell,DL,1,4
 Simon Frasier,Joey Johnson,OL,1,4
 Simon Frasier,JL Chalifoux,RB,1,4
+Simon Frasier,Chad Wilesko,RB,4,6
+Simon Frasier,Wendell Brown,RB,4,2
 Simon Frasier,JP Savard,TE,1,4
 Simon Frasier,Tyrone Kerr,LB,1,5
 Simon Frasier,Nathan Giles,WR,1,4
-Simon Frasier,Jonathan Girvan,OL,1,4
+Simon Frasier,Jonathan Girvan,OL,1,5
 Simon Frasier,Ian Girvan,OL,1,5
 Simon Frasier,Leon Deller,RB,3,6
-Simon Frasier,Rob White,WR,4,5
+Simon Frasier,Rob White,WR,3,5
 Simon Frasier,Bruce Rackette,S,2,7
 Simon Frasier,Darcy Helmkay,CB,2,6
-Simon Frasier,Alain Bouclair,LB,3,5
+Simon Frasier,Alain Bouclair,LB,2,6
 Simon Frasier,Roy Monahan,LB,2,7
 Simon Frasier,Kelly Stiles,LB,1,6
 Simon Frasier,Cory McCormick,LB,1,4
@@ -5341,6 +5343,8 @@ Simon Frasier,Robert Pufahl,RB,4,3
 Simon Frasier,Walter Dawn,RB,2,3
 Simon Frasier,Josiah Gray,OL,3,3
 Simon Frasier,Treyvon Hughes,LB,2,3
+Simon Frasier,Troy Coontz,LB,4,3
+Simon Frasier,Parker Livingston,LB,4,3
 Simon Frasier,Johnny Jones,CB,4,3
 Simon Frasier,Gene Hopkins,DL,2,3
 Simon Frasier,Luke Elsner,DL,3,3
@@ -5372,6 +5376,7 @@ St.Francis Xavier,Devin Gray,WR,4,7
 St.Francis Xavier,Korey Cunningham,OL,4,6
 St.Francis Xavier,Linden Stephens,CB,4,6
 St.Francis Xavier,Mike Boone,RB,4,6
+St.Francis Xavier,Dustin Ralph,RB,1,8
 St.Francis Xavier,Sam Geraci,K,4,6
 St.Francis Xavier,Tyrell Gilbert,S,3,6
 St.Francis Xavier,Grant Coleman,CB,4,6
