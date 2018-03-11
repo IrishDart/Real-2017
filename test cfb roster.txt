@@ -1707,7 +1707,7 @@ ESU,John Mitchell,WR,2,4
 ESU,Korel Smith,CB,1,4
 ESU,Tyrek Tisdale,RB,1,4
 ESU,Matt Murphy,OL,3,4
-ESU,Alvin Mack,LB,1,10
+ESU,Alvin Mack,LB,1,14
 ESU,Khantrell Burden,LB,3,4
 ESU,Leighton Mccarthy,DL,2,4
 ESU,Ahman Ross,S,1,4
@@ -4579,7 +4579,7 @@ Ohio State,Sean Nuernberger,K,3,7
 Ohio State,Jonathon Cooper,DL,1,7
 Ohio State,Matthew Burrell,OL,2,7
 Ohio State,Tuf Borland,LB,1,7
-Ohio State,Vontae Mack,LB,1,29
+Ohio State,Vontae Mack,LB,1,15
 Ohio State,Baron Browning,LB,1,7
 Ohio State,Keandre Jones,LB,2,7
 Ohio State,Joe Burrow,QB,2,7
@@ -8046,4 +8046,4 @@ Wyoming,Tyler Vanderwaal,QB,1,3
 Wyoming,Avante Cox,WR,1,3
 Wyoming,Erik Spurlinrenf,WR,1,3
 Wyoming,Xazavian Valladay,RB,1,3
-Wyoming,Trey Woods,LB,1,34
+Wyoming,Trey Woods,LB,1,8
