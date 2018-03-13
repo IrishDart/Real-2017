@@ -1,0 +1,15 @@
+TEAM,NAME,POSITION,YEAR,Stars
+Air Force,Troy Benson,QB,1,8
+Arizona State,Taylor Benson,WR,1,9
+Oregon,Jonathan Moxon,QB,1,9
+Texas,Timothy Greene,CB,1,10
+Univ of Alberta,Lucas Seaward,QB,1,9
+Virginia,Ronnie Bass,QB,1,8
+Virginia,Petey Jones,RB,1,8
+Virginia,Blue Stanton,OL,1,9
+Virginia,Louie Lastik,OL,1,9
+Virginia,Alan Bosley,S,1,8
+Virginia,Gerry Bertier,LB,1,10
+Virginia,Julius Campbell,DL,1,10
+Virginia,Ray Budds,TE,1,7
+Washington State,Bo Callahan,QB,1,9
