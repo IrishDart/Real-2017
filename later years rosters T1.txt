@@ -1,15 +1,177 @@
 TEAM,NAME,POSITION,YEAR,Stars
 Air Force,Troy Benson,QB,1,8
 Arizona State,Taylor Benson,WR,1,9
+Arizona State,Rod Tidwell,WR,2,9
+Arizona State,Willie Beaman,QB,1,8
+Blue Mt State,Dallas Tinker,OL,1,8
+Blue Mt State,Luke Cafferty,RB,2,8
+Blue Mt State,JD McCoy,QB,2,8
+Blue Mt State,Jason Street,QB,1,9
+Blue Mt State,Tim Riggins,RB,2,7
+Blue Mt State,Buddy Garrity,OL,3,7
+Blue Mt State,Vince Howard,QB,1,9
+Blue Mt State,Landry Clarke,K,1,7
+Blue Mt State,Matt Saracen,QB,1,7
+Blue Mt State,Smash Williams,RB,1,9
+Blue Mt State,Mac McGill,DL,3,7
+Blue Mt State,Bradley Cole,LB,2,7
+Blue Mt State,Santiago Herrera,S,1,8
+Blue Mt State,Voodoo Tatum,QB,1,9
+Blue Mt State,Bobby Reyes,CB,2,7
+Blue Mt State,Hastings Ruckell,WR,3,7
+Blue Mt State,JaMarcus Hall,WR,2,8
+California,Johnny Walker,QB,1,7
+Colorado State,Will Odom,QB,2,9
+Colorado State,Amari Carter,WR,2,10
+Colorado State,Tyler Jackson,WR,3,9
+Colorado State,William Green,WR,3,8
+Colorado State,Alex Westphal,OL,3,9
+Colorado State,Harneet Parr,DL,1,8
+Colorado State,Chris Brown,DL,4,9
+Colorado State,Riley Garner,LB,4,8
+Colorado State,Cole McGee,LB,3,8
+Colorado State,Lester Lipscomb,CB,4,10
+Colorado State,Nicholas Ricks,CB,3,8
+Colorado State,Mike Martin,K,2,8
+ESU,Corbin Spinellis,RB,1,8
+ESU,Adam Free,OL,3,9
+ESU,Jaron Harris,WR,1,7
+ESU,Frederick Palowaski,DL,2,9
+ESU,Lucy Draper,K,2,7
+ESU,Charles Jefferson,LB,2,9
+ESU,Rudy Zolteck,OL,1,8
+ESU,Brian Chavez,S,1,8
+LSU,Gavin Grey,QB,2,10
+LSU,Bobby Boucher,LB,3,9
+Marshall,Nate Ruffin,CB,2,8
+Marshall,Reggie Oliver,QB,1,8
+Marshall,Tom Bogdan,WR,2,7
+Marshall,Bobby Bowden,DL,2,7
+Marshall,Chris Griffen,RB,2,8
+Michigan State,Alex Belamy,QB,2,9
+Michigan State,Chuck ODonnell,QB,1,8
+Michigan State,Dee Marcus,WR,1,9
+Michigan State,Glenn Young,RB,3,9
+Michigan State,Kirk Davis,OL,3,9
+Michigan State,Eric Singleton,OL,1,8
+Michigan State,AJ Zandier,DL,1,8
+Michigan State,Antoine Noye,DL,1,7
+Michigan State,Phil Betiku,LB,2,8
+Michigan State,Antonio Collier,CB,2,7
+Michigan State,Lynn Wentz,WR,2,7
+Michigan State,Steven Goldbourne,OL,3,7
+Michigan State,Zach Jones,OL,1,6
+Michigan State,Sean Meyers,OL,2,7
+Michigan State,Tyree Bodiford,K,2,8
+Michigan State,Chris McCormick,DL,1,6
+Michigan State,Patrick Dingle,LB,1,7
+Michigan State,Donovan Powell,LB,2,6
+Michigan State,Dan Kirk,CB,2,7
+Michigan State,Heath Sweeney,S,1,8
+Minnesota State,Carter Fredrickson,RB,2,8
+Minnesota State,Kenny Kimmins,RB,3,7
+Minnesota State,Kelly Fox,WR,2,9
+Minnesota State,Clarence Carey,WR,3,8
+Minnesota State,Jerry Van Dunne,WR,3,8
+Minnesota State,Barry Kemp,OL,3,9
+Minnesota State,Fred Webb,DL,3,8
+Minnesota State,Pat Stone,LB,2,8
+Minnesota State,Chris Armstrong,DL,3,7
+Minnesota State,Kris Kamm,CB,2,7
+Minnesota State,Bo Whitley,QB,1,8
+Minnesota State,Craig Nelson,QB,4,8
+Minnesota State,Houston Bullock,RB,3,7
+Minnesota State,Benjamin Grant,DL,4,8
+Minnesota State,Travis McKenna,DL,3,6
+Minnesota State,Tim Conway,LB,2,6
+Minnesota State,Sheldon Fabares,LB,3,7
+Minnesota State,Keith Helmond,S,3,7
+Minnesota State,Tommy Poston,S,2,8
+Minnesota State,Stuart Rosebrock,K,2,8
+Minnesota State,Bill Fraley,OL,4,8
+Minnesota State,Mike Lembeck,OL,2,7
+Minnesota State,Rockne Dawson,DL,2,7
+Ohio State,Johnny Utah,QB,2,10
+Ohio State,Kevin OShea,RB,2,8
 Oregon,Jonathan Moxon,QB,1,9
+Pittsburgh,Stefen Djordjevic,S,1,10
+Pittsburgh,Wesley Trumaine,CB,2,9
+Pittsburgh,Franco Mars,K,2,9
 Texas,Timothy Greene,CB,1,10
+Texas,Jumbo Manumanu,OL,2,8
+Texas Tech,Paul Crewe,QB,2,9
+Texas Tech,Dan Heller,RB,3,9
+Texas Tech,Junior Floyd,RB,2,8
+North Texas,Lance Harbor,QB,1,10
+North Texas,Lobo Torres,S,2,8
+North Texas,Wendell Brown,RB,1,8
+North Texas,Joe Papke,QB,2,7
+North Texas,Sargie Wilkerson,RB,2,7
+North Texas,BillyBob Lester,OL,2,8
+North Texas,Charlie Tweeder,WR,2,8
+North Texas,Chet McNurty,OL,3,7
 Univ of Alberta,Lucas Seaward,QB,1,9
+Univ of Alberta,Chuck Spooner,RB,1,8
+Univ of Alberta,Mike Winchell,QB,2,7
+Univ of Alberta,Don Billingsley,RB,2,7
+Univ of Alberta,Ivory Christian,LB,1,8
+Univ of Alberta,Chris Comer,CB,1,8
+Univ of Alberta,Charles Billingsley,DL,2,8
+Univ of Alberta,LV Miles,WR,2,8
+Univ of Alberta,Lee Mack,LB,1,8
+Univ of Alberta,Roy Williams,WR,2,7
+Univ of Alberta,Ty Law,WR,2,7
+Utah,Tyler Cherubini,QB,1,7
+Utah,Cap Rooney,QB,2,9
+Utah,Julian Washington,RB,2,9
+Utah,LaMarcus Deacon,WR,3,8
+Utah,Shark Lavay,LB,2,9
+Syracuse,Ernie Davis,RB,1,10
 Virginia,Ronnie Bass,QB,1,8
-Virginia,Petey Jones,RB,1,8
+Virginia,Spike Hammersmith,WR,2,8
+Virginia,Petey Jones,CB,1,8
+Virginia,Rev Harris,RB,1,9
 Virginia,Blue Stanton,OL,1,9
 Virginia,Louie Lastik,OL,1,9
 Virginia,Alan Bosley,S,1,8
 Virginia,Gerry Bertier,LB,1,10
 Virginia,Julius Campbell,DL,1,10
 Virginia,Ray Budds,TE,1,7
-Washington State,Bo Callahan,QB,1,9
+Washington,Bo Callahan,QB,1,9
+Washington State,Shane Falco,QB,1,8
+Washington State,Clifford Franklin,WR,1,7
+Washington State,Jamal Jackson,OL,2,8
+Washington State,Andre Jackson,OL,2,8
+Washington State,Jumbo Fumiko,OL,1,7
+Washington State,Earl Wilkinson,S,1,8
+Washington State,Brian Murphy,TE,2,8
+Washington State,Danny Bateman,LB,1,9
+Washington State,Walter Cochran,RB,2,8
+Washington State,Nigel Gruff,K,2,8
+Washington State,Malcolm LaMont,DL,2,7
+Ole Miss,Deacon Moss,WR,2,8
+Ole Miss,Buffalo James,OL,1,8
+Ole Miss,Ray Barnes,CB,2,9
+Ole Miss,Guard Papajohn,S,2,8
+Ole Miss,Derek Wallace,K,1,7
+Ole Miss,Earl Meggett,RB,1,8
+Ole Miss,Greg Meaney,DL,2,8
+Ole Miss,Khali Turley,DL,2,9
+Ole Miss,Joey Battaglio,LB,1,8
+Ole Miss,Ed Pilachowski,DL,1,7
+Ole Miss,Eddie Martel,QB,2,8
+Boston College,Edward ONeil,OL,2,8
+Boston College,David Moss,WR,2,8
+Boston College,Bob Switowski,DL,1,9
+Boston College,Ricky Baker,RB,1,9
+Boston College,Willie Weathers,RB,2,7
+Boston College,Icebox OShea,LB,1,8
+Boston College,Charlie Brown,K,1,8
+Boston College,George Plimpton,OL,2,8
+Boston College,Johnny Rico,WR,1,8
+Boston College,David Greene,QB,1,9
+Boston College,Doberman Harris,LB,1,9
+Guelph,Boobie Miles,RB,1,10
+Guelph,Nate Scarborough,RB,2,8
+
+
